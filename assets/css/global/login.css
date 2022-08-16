@@ -1,0 +1,54 @@
+.text,h3{
+    text-align: center;
+    padding: 2%;
+    font-size: 35px;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.flex-container > div {
+width: 200px;
+margin: 10px;
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+border: 1px solid black;
+}
+
+.login-box{
+    border-style: ridge; 
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+table.center {
+margin-left: auto; 
+margin-right: auto;
+padding: 30px;
+}
+
+.heading{
+    background-color: grey;
+    overflow: hidden;
+    color: #fff;
+    max-height: 60px;
+    height: 100%;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.error{
+    color:red;
+}

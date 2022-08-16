@@ -1,0 +1,16 @@
+.square
+{
+    border:1.7px solid black;
+    border-style: ridge; 
+    height: 75vh;
+    position: relative;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    border-radius: 10px;
+    margin-left: 1%;
+}
+
+h2{
+    margin-left:2%;
+}

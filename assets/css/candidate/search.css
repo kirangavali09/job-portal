@@ -1,0 +1,82 @@
+.content{
+    width: auto;
+    border: 2px solid black;
+    padding: 110px;
+    margin: 6px;
+    position:relative;
+    display: grid;
+    border-radius:10px;
+    margin-left:1%;
+    margin-right:1%;
+}
+
+.dash{  
+    background-color: grey;
+    overflow: hidden;
+    color: #fff;
+    max-height: 100px;
+    height: 60px;
+    width:100%;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: -42px;
+    align-items: flex-start;
+    align-content: center;
+    justify-content: space-around;  
+}
+
+.flex-container > div {
+    margin: 10px;
+    line-height: 26px;
+    font-size: 25px;
+    width: 150px;
+}
+
+#btn button{
+    padding: 10px;
+    width: 98px;
+    color: white;
+    background-color: #0927dd;
+    margin-top:20px;
+}
+
+.outer-div{
+    width: auto;
+    border: 2px solid black;
+    padding: 230px;
+    margin: 6px;
+    position:relative;
+    /* display: grid; */
+    border-radius:10px;
+    margin-left:1%;
+    margin-right:1%;
+}
+.inner-div{  
+        overflow: hidden;
+        
+        max-height: 100px;
+        height: 60px;
+        width:100%;
+        position: absolute;
+        top:0px;
+        left:10px;
+}
+
+.table{
+    position:absolute;
+    top:76px;
+    left:55px;
+    width:90%;
+}
+.table td{
+    text-align:center;
+}
+.table th{
+    background-color:grey;
+}

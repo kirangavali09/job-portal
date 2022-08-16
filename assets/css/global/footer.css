@@ -1,0 +1,26 @@
+.footer {
+    
+    bottom:5px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+    border: 2px solid black;
+    padding: 0px;
+    width:98%;
+    border-radius: 10px;
+    margin-left: 1%
+}
+    
+.footer a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.container{
+    bottom:0px;
+    position: relative;
+    width:100%;
+}

@@ -1,0 +1,46 @@
+.square{
+    border-style: ridge; 
+    height:auto; 
+    min-height: 82vh;
+    position: relative;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    border-radius: 10px;
+    margin-left: 1%;
+    /* width:96%; */
+}
+
+.heading{
+    background-color: grey;
+    overflow: hidden;
+    color: #fff;
+    max-height: 60px;
+    height: 100%;
+}
+
+h2{
+    margin-left:1%;
+}
+
+.dash{  
+    background-color: grey;
+    overflow: hidden;
+    color: #fff;
+    max-height: 100px;
+    height: 60px;
+    width:100%;
+    position: absolute;
+    top:0px;
+    left:0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* .text,h3{
+    top:43px;
+    margin-top:auto;
+    position:absolute;
+    width:400px;
+    margin-left:1%;
+} */

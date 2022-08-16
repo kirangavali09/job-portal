@@ -1,0 +1,37 @@
+.dash{  
+        background-color: grey;
+        overflow: hidden;
+        color: #fff;
+        max-height: 100px;
+        height: 60px;
+        width:100%;
+        position: absolute;
+        top:0px;
+        left:0px;
+}
+
+.text,h3{
+    top:43px;
+    margin-top:auto;
+    position:absolute;
+    width:400px;
+}
+
+.content h2{
+    margin-left:15px;
+}
+
+.table{
+    position:absolute;
+    top:90px;
+    left:55px;
+    width:90%;
+}
+
+.table td{
+    text-align:center;
+}
+
+.table th{
+    background-color:grey;
+}

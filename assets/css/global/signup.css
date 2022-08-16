@@ -1,0 +1,53 @@
+.text,h3{
+    text-align: center;
+    padding: 2%;
+    font-size: 35px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-container > div {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 1px solid black;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 100px;
+}
+.box{
+    background-color:blue;
+    color:white;
+    padding:2%;
+    text-align:center;
+    width:168px;
+}
+
+.h2{
+    margin-left: auto;	
+}
+.required:after {
+    content:" *";
+    color: red;
+}
+.error{
+    color:red;
+}
+
+h4{
+    text-align:center;
+    font-size:25px;
+}
