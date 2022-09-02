@@ -134,7 +134,7 @@
 	    			<tr>
 	    				<div class="form-group">
 	    					<td></td>
-	    					<td><button type="submit" class="btn btn-primary">Sign up</button></td>
+	    					<td><button type="submit" class="btn btn-primary">Register</button></td>
 	    				</div>
 	    			</tr>	
 	    		</table> 	
